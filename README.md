@@ -12,7 +12,7 @@ The full documentation and frequently asked questions are available on the [repo
 
 An introduction to the NVIDIA Container Runtime is also covered in our [blog post](https://devblogs.nvidia.com/gpu-containers-runtime/).
 
-There is nice article [A Practical example of Training a Neural Network in the AWS cloud with Docker](https://jenslaufer.com/data/science/practical-example-of-deep-learning-in-docker.html) whith a show case.
+There is a show case with setting up a AWS cloud instance, docker-machine and docker-compose with nvidia-docker 2:  [A Practical example of Training a Neural Network in the AWS cloud with Docker](https://jenslaufer.com/data/science/practical-example-of-deep-learning-in-docker.html) 
 
 ## Quickstart
 
