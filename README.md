@@ -12,6 +12,8 @@ The full documentation and frequently asked questions are available on the [repo
 
 An introduction to the NVIDIA Container Runtime is also covered in our [blog post](https://devblogs.nvidia.com/gpu-containers-runtime/).
 
+There is nice article [A Practical example of Training a Neural Network in the AWS cloud with Docker](https://jenslaufer.com/data/science/practical-example-of-deep-learning-in-docker.html) whith a show case.
+
 ## Quickstart
 
 **Make sure you have installed the [NVIDIA driver](https://github.com/NVIDIA/nvidia-docker/wiki/Frequently-Asked-Questions#how-do-i-install-the-nvidia-driver) and a [supported version](https://github.com/NVIDIA/nvidia-docker/wiki/Frequently-Asked-Questions#which-docker-packages-are-supported) of [Docker](https://docs.docker.com/engine/installation/) for your distribution (see [prerequisites](https://github.com/NVIDIA/nvidia-docker/wiki/Installation-(version-2.0)#prerequisites)).**
